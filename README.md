@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+EtsukoSusui.;I+AM+A+WEB+AND+UNITY+DEVELOPER.;WEB+AND+UNITY+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+NICE+TO+MEET+YOU.;THIS+IS+A+WEB+AND+UNITY+DEVELOPER.;WEB+AND+UNITY+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     <h2 align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -23,12 +23,6 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 <p>So, this list will be uniformly updated as I never stop learning.</p>
 <br>
 
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
@@ -57,28 +51,6 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-<hr>
-<br>
-<h4 align="center">🔥 Personal Qualities 🔥</h4>
-<hr>
-<br>
-<div>
-<img align="right" alt="BITCOIN" src="https://user-images.githubusercontent.com/88071912/147696437-793d6e90-30d1-46c9-a8bb-693a24baea8e.jpg" width="50%" />
-
-⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
-⚡Fast response and good communication skills.<br>
-⚡well-organized/commented code.<br>
-⚡SEO friendly, semantic markup, and load speed optimization.<br>
-⚡Testing and cross-browser / cross-device compatibility.<br>
-<p>
-    🔭I am a responsible and purposeful person, I can easily interact with the development team, because I have experience working in a team, I can clearly follow the deadline without compromising the quality of the code.
-Close contact with you is very important for me, to avoid misunderstandings in the development process and to save time on the long end.
-Courage, It's not too late to build a better world.
-Alone we can do so little; together we can do so much.    
-</p>
-</div>
-
-<hr/>
 
 <h2 align="center"> 👯Let's go together!👯 </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
@@ -227,23 +199,23 @@ Alone we can do so little; together we can do so much.
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=webpointdev&theme=react&border=61dafb&hide_border=true" alt="webpointdev" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=etuskoSusui&theme=react&border=61dafb&hide_border=true" alt="webpointdev" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=webpointdev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=etuskoSusui&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webpointdev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etuskoSusui&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   <br>
   <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=webpointdev&theme=monokai"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=etuskoSusui&theme=monokai"/>
   </div>
   
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webpointdev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=etuskoSusui&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
   
   <br>
 </p>
